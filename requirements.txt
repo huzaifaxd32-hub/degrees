@@ -1,0 +1,4 @@
+# CS50 Degrees Project Requirements
+# Python 3.6+
+# No external dependencies required
+# Uses only Python standard library (csv, sys)
